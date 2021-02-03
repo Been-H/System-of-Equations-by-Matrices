@@ -91,8 +91,3 @@ class Matrix:
                         i = newRow.index(num)
                         newRow[i] = num * distance
                     self.sub_rows(ind, newRow, fab=True)
-
-
-
-
-
